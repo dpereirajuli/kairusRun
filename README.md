@@ -1,4 +1,5 @@
 # KAIRUS RUN - Website
+<img width="1908" height="925" alt="Screenshot_1" src="https://github.com/user-attachments/assets/aaa8ee13-93ba-43d4-b942-ac37cb164e2f" />
 
 Website oficial da KAIRUS RUN - Assessoria de Corrida e Bem-Estar.
 
