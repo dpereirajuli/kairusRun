@@ -1,0 +1,22 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# Disallow private areas
+Disallow: /api/
+Disallow: /admin/
+Disallow: /private/
+Disallow: /src/
+Disallow: /node_modules/
+Disallow: /*.json$
+
+# Allow important files
+Allow: /logo.jpeg
+Allow: /fundo.svg
+Allow: /favicon.ico
+
+# Sitemap location
+Sitemap: https://kairusrun.com/sitemap.xml
+
+# Crawl delay
+Crawl-delay: 1
